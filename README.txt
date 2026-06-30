@@ -105,4 +105,10 @@ Version Log:
         and system names containing commas and/or semicolons, which are used 
         exclusively as list deliminators throughout this program.
 
+--------------------------------------------------------------------------------
+
+Disclaimer:
+This is a Star Citizen fan project and is not associated with Roberts Space 
+Industries (RSI) or Cloud Imperium Games (CIG).
+
 ********************************************************************************
