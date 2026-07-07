@@ -1,5 +1,5 @@
-Nyx,Levski (Delamar),0.00,-129.99,14.99,none
-Nyx,Nyx (Star),0,0,0,none
+Nyx,Levski,0.00,-129.99,14.99,none
+Nyx,Nyx (Star),0.00,0.00,0.00,none
 Nyx,Nyx I,0.00,-29.99,7.50,none
 Nyx,Nyx II,0.00,110.00,10.49,none
 Nyx,Nyx III,0.00,-140.00,38.00,none
@@ -7,16 +7,17 @@ Nyx,People's Service Station Alpha,0.00,-162.60,47.99,none
 Nyx,People's Service Station Delta,0.00,-97.70,47.99,none
 Nyx,People's Service Station Lambda,0.00,25.48,47.99,none
 Nyx,People's Service Station Theta,0.00,-32.52,48.00,none
-Nyx,Pyro Gateway,0.00,120.00,23.99,Pyro
-Nyx,Stanton Gateway,0.00,-119.99,26.99,Stanton
+Nyx,Pyro Gateway (Nyx),0.00,120.00,23.99,Pyro
+Nyx,Stanton Gateway (Nyx),0.00,-119.99,26.99,Stanton
 Pyro,Bloom,0.00,154.77,17.80,none
-Pyro,Checkmate,0.01,-5.19,10.59,none
+Pyro,Checkmate Station,0.01,-5.19,10.59,none
 Pyro,Dudley & Daughters,0.00,-155.25,68.33,none
 Pyro,Endgame,0.00,-40.23,68.29,none
 Pyro,Gaslight,0.02,-95.22,47.21,none
 Pyro,Megumi Refueling,0.01,64.77,68.29,none
 Pyro,Monox,0.00,-55.22,10.62,none
-Pyro,Nyx Gateway,0.00,-134.37,50.43,Nyx
+Pyro,Nyx Gateway (Pyro),0.00,-134.37,50.43,Nyx
+Pyro,Orbituary,0.00,154.76,17.80,none
 Pyro,Patch City,0.00,-35.26,17.79,none
 Pyro,PYR1 L1,0.00,-162.22,7.44,none
 Pyro,PYR1 L2,0.00,-163.22,9.10,none
@@ -34,13 +35,14 @@ Pyro,PYR5 L1,0.00,-95.22,38.64,none
 Pyro,PYR5 L3,0.00,64.77,42.93,none
 Pyro,PYR6 L1,0.00,135.77,66.17,none
 Pyro,PYR6 L2,0.00,134.77,70.88,none
-Pyro,Pyro (Star),0,0,0,none
+Pyro,Pyro (Star),0.00,0.00,0.00,none
 Pyro,Pyro I,0.00,-163.22,8.27,none
 Pyro,Pyro IV,0.00,-94.91,43.23,none
 Pyro,Pyro V,0.00,-95.22,42.93,none
 Pyro,Rat's Nest,0.02,-170.24,42.92,none
-Pyro,Rod's Fuel 'n Supplies,-0.01,-15.20,42.92,none
-Pyro,Stanton Gateway,0.00,49.90,53.06,Stanton
+Pyro,Rod's Fuel 'N Supplies,-0.01,-15.20,42.92,none
+Pyro,Ruin Station,0.00,134.77,68.32,none
+Pyro,Stanton Gateway (Pyro),0.00,49.90,53.06,Stanton
 Pyro,Starlight Service Station,0.00,155.79,16.01,none
 Pyro,Terminus,0.00,134.77,68.32,none
 Stanton,ARC-L1 Wide Forest Station,0.00,-50.00,26.02,none
@@ -48,26 +50,31 @@ Stanton,ARC-L2 Lively Pathway Station,0.00,-49.99,31.81,none
 Stanton,ARC-L3 Modern Express Station,0.00,149.99,28.92,none
 Stanton,ARC-L4 Faint Glen Station,0.00,9.99,28.91,none
 Stanton,ARC-L5 Yellow Core Station,0.00,-110.00,28.92,none
-Stanton,ArcCorp,0,-50,28.91,none
-Stanton,CRU L2,0.00,-171.99,21.06,none
-Stanton,CRU L3,0.00,8.00,19.14,none
+Stanton,ArcCorp,0.00,-50,28.91,none
+Stanton,Baijini Point,0.00,-50.00,28.911,none
 Stanton,CRU-L1 Ambitious Dream Station,0.00,-171.99,17.23,none
+Stanton,CRU-L2,0.00,-171.99,21.06,none
+Stanton,CRU-L3,0.00,8.00,19.14,none
 Stanton,CRU-L4 Shallow Fields Station,0.00,-112.00,19.14,none
 Stanton,CRU-L5 Beautiful Glen Station,0.00,127.98,19.14,none
-Stanton,Crusader,0,-171.99,19.14,none
+Stanton,Crusader,0.00,-171.99,19.14,none
+Stanton,Everus Harbor,0.00,0.00,12.851,none
+Stanton,Green Imperial Housing Exchange,0.00,-172.17,19.20,none
 Stanton,HUR-L1 Green Glade Station,0.00,0.00,11.56,none
 Stanton,HUR-L2 Faithful Dream Station,0.00,0.00,14.13,none
 Stanton,HUR-L3 Thundering Express Station,0.00,-179.99,12.84,none
 Stanton,HUR-L4 Melodic Fields Station,0.00,59.98,12.84,none
 Stanton,HUR-L5 High Course Station,0.00,-59.99,12.85,none
-Stanton,Hurston,0,0,12.85,none
+Stanton,Hurston,0.00,0.00,12.85,none
 Stanton,MIC-L1 Shallow Frontier Station,0.00,58.86,39.09,none
 Stanton,MIC-L2 Long Forest Station,-0.01,58.86,47.79,none
 Stanton,MIC-L3 Endless Odyssey Station,-0.01,-121.12,43.43,none
 Stanton,MIC-L4 Red Crossroads Station,-0.01,118.85,43.45,none
 Stanton,MIC-L5 Modern Icarus Station,-0.01,-1.13,43.45,none
-Stanton,MicroTech,0,58.86,43.44,none
-Stanton,Nyx Gateway,16.88,159.35,69.55,Nyx
-Stanton,Pyro Gateway,-5.42,-83.25,28.3,Pyro
-Stanton,Stanton (Star),0,0,0,none
-Stanton,Terra Gateway,-4.82,-5.88,51.57,none
+Stanton,MicroTech,0.00,58.86,43.44,none
+Stanton,Nyx Gateway (Stanton),16.88,159.35,69.55,Nyx
+Stanton,Port Tressler,0.00,58.86,43.441,none
+Stanton,Pyro Gateway (Stanton),-5.42,-83.25,28.3,Pyro
+Stanton,Seraphim Station,0.01,-171.98,19.15,none
+Stanton,Stanton (Star),0.00,0.00,0.00,none
+Stanton,Terra Gateway (Stanton),-4.82,-5.88,51.57,none
