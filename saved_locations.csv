@@ -14,6 +14,7 @@ Pyro,Checkmate Station,0.01,-5.19,10.59,none
 Pyro,Dudley & Daughters,0.00,-155.25,68.33,none
 Pyro,Endgame,0.00,-40.23,68.29,none
 Pyro,Gaslight,0.02,-95.22,47.21,none
+Pyro,Ignis,0.00,-95.29,42.95,none
 Pyro,Megumi Refueling,0.01,64.77,68.29,none
 Pyro,Monox,0.00,-55.22,10.62,none
 Pyro,Nyx Gateway (Pyro),0.00,-134.37,50.43,Nyx
@@ -45,19 +46,27 @@ Pyro,Ruin Station,0.00,134.77,68.32,none
 Pyro,Stanton Gateway (Pyro),0.00,49.90,53.06,Stanton
 Pyro,Starlight Service Station,0.00,155.79,16.01,none
 Pyro,Terminus,0.00,134.77,68.32,none
+Pyro,Vatra,0.00,-95.20,42.86,none
+Stanton,Aberdeen,0.00,0.18,12.90,none
 Stanton,ARC-L1 Wide Forest Station,0.00,-50.00,26.02,none
 Stanton,ARC-L2 Lively Pathway Station,0.00,-49.99,31.81,none
 Stanton,ARC-L3 Modern Express Station,0.00,149.99,28.92,none
 Stanton,ARC-L4 Faint Glen Station,0.00,9.99,28.91,none
 Stanton,ARC-L5 Yellow Core Station,0.00,-110.00,28.92,none
 Stanton,ArcCorp,0.00,-50,28.91,none
+Stanton,Arial,0.00,-0.13,12.89,none
 Stanton,Baijini Point,0.00,-50.00,28.911,none
+Stanton,Calliope,0.00,58.92,43.39,none
+Stanton,Cellin,0.00,-171.88,19.17,none
+Stanton,Clio,0.00,58.78,43.36,none
 Stanton,CRU-L1 Ambitious Dream Station,0.00,-171.99,17.23,none
 Stanton,CRU-L2,0.00,-171.99,21.06,none
 Stanton,CRU-L3,0.00,8.00,19.14,none
 Stanton,CRU-L4 Shallow Fields Station,0.00,-112.00,19.14,none
 Stanton,CRU-L5 Beautiful Glen Station,0.00,127.98,19.14,none
 Stanton,Crusader,0.00,-171.99,19.14,none
+Stanton,Daymar,0.00,-172.14,19.10,none
+Stanton,Euterpe,0.00,58.76,43.36,none
 Stanton,Everus Harbor,0.00,0.00,12.851,none
 Stanton,Green Imperial Housing Exchange,0.00,-172.17,19.20,none
 Stanton,HUR-L1 Green Glade Station,0.00,0.00,11.56,none
@@ -66,6 +75,9 @@ Stanton,HUR-L3 Thundering Express Station,0.00,-179.99,12.84,none
 Stanton,HUR-L4 Melodic Fields Station,0.00,59.98,12.84,none
 Stanton,HUR-L5 High Course Station,0.00,-59.99,12.85,none
 Stanton,Hurston,0.00,0.00,12.85,none
+Stanton,Ita,0.00,0.51,12.83,none
+Stanton,Lyria,0.00,-49.78,28.96,none
+Stanton,Magda,0.00,-0.33,12.79,none
 Stanton,MIC-L1 Shallow Frontier Station,0.00,58.86,39.09,none
 Stanton,MIC-L2 Long Forest Station,-0.01,58.86,47.79,none
 Stanton,MIC-L3 Endless Odyssey Station,-0.01,-121.12,43.43,none
@@ -78,3 +90,5 @@ Stanton,Pyro Gateway (Stanton),-5.42,-83.25,28.3,Pyro
 Stanton,Seraphim Station,0.01,-171.98,19.15,none
 Stanton,Stanton (Star),0.00,0.00,0.00,none
 Stanton,Terra Gateway (Stanton),-4.82,-5.88,51.57,none
+Stanton,Wala,0.00,-50.12,28.66,none
+Stanton,Yela,0.00,-172.17,19.20,none
